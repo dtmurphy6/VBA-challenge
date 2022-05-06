@@ -5,7 +5,7 @@ Included in that commit are the:
   -The vbs file including the code I created.
   -The xls and xlsm files I worked in.
 
-I believe I completed the bonus correctly as well.
+I believe I completed the bonus correctly as well which is visible in the vbs file.
 
 Thanks,
 
